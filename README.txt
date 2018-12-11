@@ -44,8 +44,8 @@ and have fun from using
 ///////////////More about code///////////////
 /////////////////////////////////////////////
 
-For more info about code check documentation or
-read a comments in source files
+For more information about code read comments
+in source files
 
 Last updated 2018-12-10 4:41
 
