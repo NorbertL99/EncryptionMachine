@@ -38,7 +38,8 @@ it someday
 
 You need to import encrypton_machine.sql file 
 into your database, then you can run a program
-and have fun from using
+and have fun from using. Then just run the exe
+of program from bin/debug
 
 /////////////////////////////////////////////
 ///////////////More about code///////////////
