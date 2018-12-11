@@ -1,0 +1,20 @@
+G:\programyportfolio\Encryption Machine\Encryption Machine\bin\Debug\Encryption Machine.exe.config
+G:\programyportfolio\Encryption Machine\Encryption Machine\bin\Debug\Encryption Machine.exe
+G:\programyportfolio\Encryption Machine\Encryption Machine\bin\Debug\Encryption Machine.pdb
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.MainWindow.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Properties.Resources.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption Machine.csproj.GenerateResource.cache
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption Machine.csproj.CoreCompileInputs.cache
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption Machine.exe
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption Machine.pdb
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Windows.UserPanels.dashboard.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Windows.UserPanel.codesettings.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Windows.UserPanel.createcode.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Windows.UserPanels.encryptdecrypt.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\bin\Debug\MySql.Data.dll
+G:\programyportfolio\Encryption Machine\Encryption Machine\bin\Debug\Google.Protobuf.dll
+G:\programyportfolio\Encryption Machine\Encryption Machine\bin\Debug\MySql.Data.xml
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption Machine.csprojAssemblyReference.cache
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Windows.UserPanel.CodeSettings.after.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption_Machine.Windows.UserPanel.CodeSettings.before.resources
+G:\programyportfolio\Encryption Machine\Encryption Machine\obj\Debug\Encryption Machine.csproj.CopyComplete
