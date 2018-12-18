@@ -46,7 +46,8 @@ of program from bin/debug
 /////////////////////////////////////////////
 
 For more information about code read comments
-in source files
+in source files or load project into Visual
+Studio and inspect code.
 
 Last updated 2018-12-10 4:41
 
